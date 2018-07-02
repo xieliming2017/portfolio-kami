@@ -55,4 +55,4 @@ Another tools that I used for testing is the developer tool provided by google c
 
 ## Conclusion
 
-I gained substantial knowledge of Rails development after this project. From a basic Rails project to a application with a complete set of functionalities. From setting up minimum UI to custom more complicated Views. It is not just what I've learned to make Bloccit work, but also the thoughts behind the development process, Including the structure of a Rails app, and the glimpse of best practice of Rails development, which will assist me in future application developments.
+I gained substantial knowledge of Rails development after this project. From a basic Rails project to a application with a complete set of functionalities. From setting up minimum UI to custom more complicated Views. It is not just what I've learned to make Bloccit work, but also the thoughts behind the development process, Including the structure of a Rails app, the glimpse of best practice of Rails development, and problem solving with available resources, which will assist me in future application developments.
